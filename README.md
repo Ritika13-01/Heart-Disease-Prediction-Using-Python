@@ -6,6 +6,8 @@ This project focuses on predicting heart disease using machine learning techniqu
 ---
 
 ### **1. Data Preprocessing**
+![image](https://github.com/user-attachments/assets/50219ba9-bb1e-4f85-9a59-52a49d41b7d1)
+
 - **Data Cleaning:** The dataset was checked for missing or inconsistent values, and appropriate imputation or removal methods were applied.
 - **Normalization:** Continuous variables were normalized to ensure uniform scaling, improving the performance of the algorithms.
 - **Feature Engineering:** Relevant features were selected, and categorical variables (if any) were encoded.
@@ -36,6 +38,8 @@ This project focuses on predicting heart disease using machine learning techniqu
 ---
 
 ### **5. Results**
+![image](https://github.com/user-attachments/assets/af576b4f-f287-4a1b-8ad0-43e0d16ff1dd)
+
 - Logistic Regression emerged as the **more accurate model** with an accuracy of **84%**, making it a suitable choice for predicting heart disease.
 - Decision Tree showed less accurate results, highlighting the importance of selecting an appropriate algorithm for specific datasets.
 
